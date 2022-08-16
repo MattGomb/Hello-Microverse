@@ -2,12 +2,11 @@
 
 # Project Name
 
-This is a small project to practice linters
+This is a small project to practice linters.
 
 ## Built With
 
 html, and css
-
 
 ## Getting Started
 
@@ -15,9 +14,21 @@ html, and css
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple example steps:
 
+1. Clone this repo, by clicking on 'code' and copying the HTTPS
+2. Open Git Bash and type: $ git clone *paste the copied link*
+1b. Click on 'code' then 'open with GitHub Desktop'
 
+To work with this repo:
+
+1. Add your modifications
+2. Commit and push
+3. Create a pull request
+4. Wait for pull request to merge
+
+To be a jolly good fellow: 
+1. Star this repository
 
 ## Authors
 
@@ -25,7 +36,7 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: [@MattGomb](https://github.com/githubhandle)
 - Twitter: [@MtysGombos1](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/gombos-m%C3%A1ty%C3%A1s-28139771/
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/gombos-m%C3%A1ty%C3%A1s-28139771/)
 
 ## 🤝 Contributing
 
